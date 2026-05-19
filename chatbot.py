@@ -22,7 +22,7 @@ st.set_page_config(
     page_icon="📘"
 )
 
-st.header("📘 AI NoteBot using Groq + Llama3")
+st.header("📘Smart AI NoteBot using Groq + Llama3")
 
 # -----------------------------------
 # SIDEBAR
